@@ -1,6 +1,6 @@
 ---
 title: hexo的使用
-description: 学习下hexo的书写
+description: hexo初接触
 toc: true
 categories:
 - 环境搭建
